@@ -1,3 +1,4 @@
+
 public class UC2 {
     public static void main(String[] args){
 
@@ -8,5 +9,3 @@ public class UC2 {
         System.out.println("Hello, " + name + "!");
     }
 }
-
-    
